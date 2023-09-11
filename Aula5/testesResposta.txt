@@ -1,0 +1,2 @@
+	A principal diferença entre os testes funcionais e não funcionais é que o teste funcional garante que o produto de software está funcionando corretamente, enquanto o teste não funcional verifica os aspectos não funcionais, como desempenho e usabilidade.
+	Os testes funcionais dizem respeito à conformidade de cada função do software ou aplicação com as suas especificações requeridas. Por outro lado, os testes não-funcionais medem o desempenho do software ou das aplicações em vez de se funcionarem de todo.
