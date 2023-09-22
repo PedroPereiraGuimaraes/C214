@@ -91,4 +91,4 @@ Os testes foram:
 ```
 
 Sendo no total 10 testes para cenários de *SUCESSO* e 10 teste para cenários de *FALHA*.
-### Feito por ```Pedro Pereira Guimarães```
+### 🤓 Feito por ```Pedro Pereira Guimarães```
