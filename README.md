@@ -1,2 +1,2 @@
-# EngenhariaDeSoftware
-Repositorio para a materia de Engenharia de Software
+## 🔎 C214 - Engenharia de Software
+Repositório criado para exercícios de C214
