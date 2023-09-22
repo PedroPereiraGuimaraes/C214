@@ -1,6 +1,6 @@
 # 🚀 C214 - Engenharia de Software 
 ## 📒 Enunciado
-Teste uma classe responsável por popular uma página WEB com informações referentes ao horário de atendimento dos professores do ```Inatel```. O horário de atendimento é retornado por um servidor remoto em um ```JSON``` em formato String. Não é necessário demonstrar o funcionamento da página ```WEB```, somente o teste.
+Teste uma classe responsável por popular uma página ```WEB``` com informações referentes ao horário de atendimento dos professores do ```Inatel```. O horário de atendimento é retornado por um servidor remoto em um ```JSON``` em formato String. Não é necessário demonstrar o funcionamento da página ```WEB```, somente o teste.
 
 ## 💻 Explicação do código
 Para fazer o exercício foi usado Javascript em conjunto com ```MOCHA``` e ```CHAI```.
