@@ -18,6 +18,9 @@ jobs:
       with:
         node-version: '14' # Indica a versão do node a ser instalada
 
+    - name: Ir para Laboratorio
+      run: cd Laboratorio # Entra no diretorio da aula 8
+
     - name: Ir para a aula 8
       run: cd Aula8 # Entra no diretorio da aula 8
 
