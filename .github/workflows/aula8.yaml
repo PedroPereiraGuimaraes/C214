@@ -16,7 +16,7 @@ jobs:
     - name: Configurar Node.js # Instalando o gerenciador de dependências
       uses: actions/setup-node@v2
       with:
-        node-version: '18.17.1' # Indica a versão do node a ser instalada
+        node-version: '14' # Indica a versão do node a ser instalada
 
     - name: Ir para Laboratorio
       run: cd Laboratorio/Aula8 # Entra no diretorio da aula 8
